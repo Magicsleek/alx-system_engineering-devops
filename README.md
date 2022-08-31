@@ -1,1 +1,1 @@
-my 2nd readme
+Starting Devops today
